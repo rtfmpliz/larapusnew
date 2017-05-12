@@ -8,8 +8,16 @@
 		"cartalyst/sentry": "2.1.4",
 		"uikit/uikit": "2.8.*",
 		"components/jquery": "2.1.0",
-		"way/generators": "2.6.*"
+		"way/generators": "2.6.*",
+		"cartalyst/sentry": "2.1.*",
+		"datatables/datatables": "1.10.0",
+"chumper/datatable": "2.3",
+"ivaynberg/select2": "3.5.0",
+"greggilbert/recaptcha": "1.0.7"
 	},
+	"require-dev" : {
+ "way/generators": "2.*"
+ },
 	"autoload": {
 		"classmap": [
 			"app/commands",
